@@ -1,0 +1,12 @@
+name: yellow_fever_africa
+title:
+username:
+account: polici
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 130115
+bundleId: 1197760
+url: https://polici.shinyapps.io/yellow_fever_africa/
+when: 1517238996.60911
+asMultiple: FALSE
+asStatic: FALSE

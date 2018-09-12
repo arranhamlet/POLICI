@@ -1,0 +1,9 @@
+name: yellow_fever_vaccination
+account: yellowfevervaccination
+server: shinyapps.io
+appId: 129455
+bundleId: 579292
+url: https://yellowfevervaccination.shinyapps.io/yellow_fever_vaccination/
+when: 1475832589.08976
+asMultiple: FALSE
+asStatic: FALSE
