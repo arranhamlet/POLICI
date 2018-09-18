@@ -1,0 +1,15 @@
+packages:
+  - DT
+  - Hmisc
+  - RColorBrewer
+  - fields
+  - htmltools
+  - htmlwidgets
+  - leaflet
+  - maptools
+  - plotly
+  - plyr
+  - rgdal
+  - rgeos
+  - shiny
+  - shinyBS
