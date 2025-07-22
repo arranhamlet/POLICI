@@ -8,8 +8,7 @@ packages:
   - leaflet
   - plotly
   - plyr
-  - rgdal
-  - rgeos
+  - sf
   - shiny
   - shinyBS
   - data.table
